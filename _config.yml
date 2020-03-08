@@ -203,9 +203,10 @@ clicklove:
 # profile in about page, including avatars, career, and personal introductions.
 # 在”关于”页面中配置个人信息，包括头像、职业和个人介绍.
 profile:
-  avatar: /medias/avatar.jpg
+  #avatar: /medias/avatar.jpg
+  avatar: https://raw.githubusercontent.com/HavocW/iGeekerImgs/master/imgs/20200308163046.png
   career: zhetenger
-  introduction: 不断探索,各类折腾,vps评测
+  introduction: 不断探索,各类折腾,vps评测,闲的没事的时候就来水一水
 
 # config my projects informations in about page.
 # If you don't want to display this `My Projects` content, you can deactivate or delete this configuration.
